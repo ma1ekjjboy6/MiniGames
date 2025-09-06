@@ -1,0 +1,1 @@
+"C:\Program Files\Microsoft\jdk-21.0.6.7-hotspot\bin\java.exe" -Xms2G -Xmx4G -jar mohist-1.16.5-8c7caaf.jar
